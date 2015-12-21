@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails int_edu: development" uuid="57547882-8349-4c4d-9501-d1e998cf52c8">
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="Rails int_edu: test" uuid="432722a8-0eeb-4950-b647-ba000cdc2261">
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="Rails int_edu: production" uuid="4bb473df-c5d2-406a-8741-7436faa36d94">
+      <first-sync>true</first-sync>
+      <user-name>int_edu</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfe3dfe4dffedff5dfefdfeedfffdff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+    </data-source>
+  </component>
+</project>

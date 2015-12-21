@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2268540422">
+    <data-source source="LOCAL" name="Rails int_edu: development" uuid="57547882-8349-4c4d-9501-d1e998cf52c8">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:int_edu_development</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails int_edu: test" uuid="432722a8-0eeb-4950-b647-ba000cdc2261">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:int_edu_test</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails int_edu: production" uuid="4bb473df-c5d2-406a-8741-7436faa36d94">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:int_edu_production</jdbc-url>
+    </data-source>
+  </component>
+</project>
